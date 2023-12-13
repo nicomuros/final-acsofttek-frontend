@@ -10,7 +10,7 @@ const Footer = () => {
             <ul>
               <li><a className="link-light" href="/">Home</a></li>
               <li><a className="link-light" href="/armatupc">Arma tu Pc</a></li>
-              <li><a className="link-light" href="#">Ayuda</a></li>
+              <li><a className="link-light" href="/ayuda">Ayuda</a></li>
             </ul>
             </div>
           </div>
@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center m-2">
-          <p className="fs-6">(c) Copyright 2023 TecnoTienda. All rights reserved</p>
+          <p className="fs-6">© Copyright 2023 TecnoTienda. All rights reserved</p>
         </div>
 
       </div>
